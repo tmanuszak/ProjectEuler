@@ -38,28 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.P18">
-    <configuration name="P14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem14/P14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.P19">
     <configuration name="P15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,13 +123,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="P19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem19/P19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P19" />
         <item itemvalue="Python.P18" />
         <item itemvalue="Python.P17" />
         <item itemvalue="Python.P16" />
         <item itemvalue="Python.P15" />
-        <item itemvalue="Python.P14" />
       </list>
     </recent_temporary>
   </component>
@@ -183,38 +183,38 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="441" y="140" key="#xdebugger.evaluate/0.0.1368.872@0.0.1368.872" timestamp="1588476349777" />
-    <state width="1314" height="262" key="GridCell.Tab.0.bottom" timestamp="1588485224445">
+    <state width="1314" height="262" key="GridCell.Tab.0.bottom" timestamp="1588528793000">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588485224445" />
-    <state width="1314" height="262" key="GridCell.Tab.0.center" timestamp="1588485224445">
+    <state width="1314" height="262" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588528793000" />
+    <state width="1314" height="262" key="GridCell.Tab.0.center" timestamp="1588528793000">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1588485224445" />
-    <state width="1314" height="262" key="GridCell.Tab.0.left" timestamp="1588485224445">
+    <state width="1314" height="262" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1588528793000" />
+    <state width="1314" height="262" key="GridCell.Tab.0.left" timestamp="1588528792999">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1588485224445" />
-    <state width="1314" height="262" key="GridCell.Tab.0.right" timestamp="1588485224445">
+    <state width="1314" height="262" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1588528792999" />
+    <state width="1314" height="262" key="GridCell.Tab.0.right" timestamp="1588528793000">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1588485224445" />
-    <state width="1314" height="262" key="GridCell.Tab.1.bottom" timestamp="1588485224446">
+    <state width="1314" height="262" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1588528793000" />
+    <state width="1314" height="262" key="GridCell.Tab.1.bottom" timestamp="1588528793001">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588485224446" />
-    <state width="1314" height="262" key="GridCell.Tab.1.center" timestamp="1588485224446">
+    <state width="1314" height="262" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588528793001" />
+    <state width="1314" height="262" key="GridCell.Tab.1.center" timestamp="1588528793000">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1588485224446" />
-    <state width="1314" height="262" key="GridCell.Tab.1.left" timestamp="1588485224445">
+    <state width="1314" height="262" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1588528793000" />
+    <state width="1314" height="262" key="GridCell.Tab.1.left" timestamp="1588528793000">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1588485224445" />
-    <state width="1314" height="262" key="GridCell.Tab.1.right" timestamp="1588485224446">
+    <state width="1314" height="262" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1588528793000" />
+    <state width="1314" height="262" key="GridCell.Tab.1.right" timestamp="1588528793000">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1314" height="262" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1588485224446" />
+    <state width="1314" height="262" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1588528793000" />
     <state width="993" height="527" key="XDebugger.FullValuePopup" timestamp="1588476530885">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -237,9 +237,9 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Problem18/P18.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="31" />
+          <url>file://$PROJECT_DIR$/Problem19/P19.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
