@@ -1,0 +1,1 @@
+print(sum([i for i in range(2, 5*(9**5)+1) if sum([int(i)**5 for i in list(str(i))]) == i]))
