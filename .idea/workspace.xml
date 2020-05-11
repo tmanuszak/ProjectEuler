@@ -38,28 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.P34">
-    <configuration name="P30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem30" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem30/P30.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.P35">
     <configuration name="P31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,13 +123,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="P35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem35" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem35/P35.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P35" />
         <item itemvalue="Python.P34" />
         <item itemvalue="Python.P33" />
         <item itemvalue="Python.P32" />
         <item itemvalue="Python.P31" />
-        <item itemvalue="Python.P30" />
       </list>
     </recent_temporary>
   </component>
@@ -180,10 +180,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="299" key="#Notifications" timestamp="1588615778728">
+    <state x="554" y="299" key="#Notifications" timestamp="1589162347180">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="554" y="299" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1588615778728" />
+    <state x="554" y="299" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1589162347180" />
     <state x="0" y="190" key="#xdebugger.XInspectDialog" timestamp="1588532304284">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -192,38 +192,38 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="441" y="140" key="#xdebugger.evaluate/0.0.1368.872@0.0.1368.872" timestamp="1588476349777" />
-    <state width="1348" height="211" key="GridCell.Tab.0.bottom" timestamp="1589065240709">
+    <state width="1348" height="211" key="GridCell.Tab.0.bottom" timestamp="1589162317892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589065240709" />
-    <state width="1348" height="211" key="GridCell.Tab.0.center" timestamp="1589065240709">
+    <state width="1348" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589162317892" />
+    <state width="1348" height="211" key="GridCell.Tab.0.center" timestamp="1589162317892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589065240709" />
-    <state width="1348" height="211" key="GridCell.Tab.0.left" timestamp="1589065240709">
+    <state width="1348" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589162317892" />
+    <state width="1348" height="211" key="GridCell.Tab.0.left" timestamp="1589162317892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589065240709" />
-    <state width="1348" height="211" key="GridCell.Tab.0.right" timestamp="1589065240709">
+    <state width="1348" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589162317892" />
+    <state width="1348" height="211" key="GridCell.Tab.0.right" timestamp="1589162317892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589065240709" />
-    <state width="1348" height="280" key="GridCell.Tab.1.bottom" timestamp="1589047497465">
+    <state width="1348" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589162317892" />
+    <state width="1348" height="280" key="GridCell.Tab.1.bottom" timestamp="1589162163347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="280" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589047497465" />
-    <state width="1348" height="280" key="GridCell.Tab.1.center" timestamp="1589047497465">
+    <state width="1348" height="280" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589162163347" />
+    <state width="1348" height="280" key="GridCell.Tab.1.center" timestamp="1589162163347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="280" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1589047497465" />
-    <state width="1348" height="280" key="GridCell.Tab.1.left" timestamp="1589047497464">
+    <state width="1348" height="280" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1589162163347" />
+    <state width="1348" height="280" key="GridCell.Tab.1.left" timestamp="1589162163347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="280" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1589047497464" />
-    <state width="1348" height="280" key="GridCell.Tab.1.right" timestamp="1589047497465">
+    <state width="1348" height="280" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1589162163347" />
+    <state width="1348" height="280" key="GridCell.Tab.1.right" timestamp="1589162163347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="280" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1589047497465" />
+    <state width="1348" height="280" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1589162163347" />
     <state width="1080" height="391" key="XDebugger.FullValuePopup" timestamp="1588613256736">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -258,6 +258,16 @@
           <url>file://$PROJECT_DIR$/Problem33/P33.py</url>
           <line>11</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem35/P35.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem35/P35.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
