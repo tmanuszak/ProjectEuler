@@ -38,70 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.P58">
-    <configuration name="P53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem053" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem053/P53.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="P55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem055" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem055/P55.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="P56" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem056" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem056/P56.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.P67">
     <configuration name="P57" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,13 +81,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="P59" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem059" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem059/P59.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P63" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem063" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem063/P63.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P67" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem067" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem067/P67.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P67" />
+        <item itemvalue="Python.P63" />
+        <item itemvalue="Python.P59" />
         <item itemvalue="Python.P58" />
         <item itemvalue="Python.P57" />
-        <item itemvalue="Python.P56" />
-        <item itemvalue="Python.P55" />
-        <item itemvalue="Python.P53" />
       </list>
     </recent_temporary>
   </component>
@@ -196,41 +196,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="441" y="140" key="#xdebugger.evaluate/0.0.1368.872@0.0.1368.872" timestamp="1588476349777" />
-    <state width="1348" height="210" key="GridCell.Tab.0.bottom" timestamp="1589564295655">
+    <state width="1348" height="279" key="GridCell.Tab.0.bottom" timestamp="1589771940591">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="210" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589564295655" />
-    <state width="1348" height="210" key="GridCell.Tab.0.center" timestamp="1589564295654">
+    <state width="1348" height="279" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940591" />
+    <state width="1348" height="210" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589584848020" />
+    <state width="1348" height="279" key="GridCell.Tab.0.center" timestamp="1589771940591">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="210" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589564295654" />
-    <state width="1348" height="210" key="GridCell.Tab.0.left" timestamp="1589564295654">
+    <state width="1348" height="279" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940591" />
+    <state width="1348" height="210" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589584848019" />
+    <state width="1348" height="279" key="GridCell.Tab.0.left" timestamp="1589771940591">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="210" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589564295654" />
-    <state width="1348" height="210" key="GridCell.Tab.0.right" timestamp="1589564295654">
+    <state width="1348" height="279" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940591" />
+    <state width="1348" height="210" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589584848019" />
+    <state width="1348" height="279" key="GridCell.Tab.0.right" timestamp="1589771940591">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="210" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589564295654" />
-    <state width="661" height="279" key="GridCell.Tab.1.bottom" timestamp="1589564260436">
+    <state width="1348" height="279" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940591" />
+    <state width="1348" height="210" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589584848019" />
+    <state width="1348" height="279" key="GridCell.Tab.1.bottom" timestamp="1589771940592">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="661" height="279" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589564260436" />
-    <state width="661" height="279" key="GridCell.Tab.1.center" timestamp="1589564260436">
+    <state width="1348" height="279" key="GridCell.Tab.1.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940592" />
+    <state width="1348" height="279" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589584797591" />
+    <state width="1348" height="279" key="GridCell.Tab.1.center" timestamp="1589771940591">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="661" height="279" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1589564260436" />
-    <state width="661" height="279" key="GridCell.Tab.1.left" timestamp="1589564260435">
+    <state width="1348" height="279" key="GridCell.Tab.1.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940591" />
+    <state width="1348" height="279" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1589584797591" />
+    <state width="1348" height="279" key="GridCell.Tab.1.left" timestamp="1589771940591">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="661" height="279" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1589564260435" />
-    <state width="661" height="279" key="GridCell.Tab.1.right" timestamp="1589564260436">
+    <state width="1348" height="279" key="GridCell.Tab.1.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940591" />
+    <state width="1348" height="279" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1589584797591" />
+    <state width="1348" height="279" key="GridCell.Tab.1.right" timestamp="1589771940592">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="661" height="279" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1589564260436" />
-    <state width="1080" height="391" key="XDebugger.FullValuePopup" timestamp="1588613256736">
+    <state width="1348" height="279" key="GridCell.Tab.1.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771940592" />
+    <state width="1348" height="279" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1589584797591" />
+    <state width="1080" height="391" key="XDebugger.FullValuePopup" timestamp="1589771514381">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1080" height="391" key="XDebugger.FullValuePopup/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1589771514381" />
     <state width="1080" height="391" key="XDebugger.FullValuePopup/0.0.1368.872@0.0.1368.872" timestamp="1588613256736" />
     <state x="493" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588433802692">
       <screen x="0" y="0" width="1368" height="872" />
@@ -272,6 +281,21 @@
           <url>file://$PROJECT_DIR$/Problem057/P57.py</url>
           <line>16</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem058/P58.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem063/P63.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem067/P67.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
